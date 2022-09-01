@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
-<h3 align="center">A student on Big Data</h3>
+<h3 align="center">Student - Big Data</h3>
 
 - 🌱 I’m currently learning **Java**
 
