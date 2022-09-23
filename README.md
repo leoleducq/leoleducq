@@ -3,7 +3,7 @@
 
 T'en as marre d'effectuer les mêmes tâches au quotidien ? Viens DM on va automatiser tout ça !🤖  
 Ici pour te faire gagner du temps.  
-📫 Contact : **iziatask@gmail.fr**
+Contact : **iziatask@gmail.fr**
 
 <h3 align="left">Mes réseaux</h3>
 <p align="left">
