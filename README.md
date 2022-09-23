@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Léo</h1>
-<h3 align="center">Student - Big Data</h3>
+<h3 align="center">Student and Freelance - Big Data</h3>
 
 - 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Python, SQL**
 
-- 📫 How to reach me **leo49500@outlook.fr**
+- 📫 How to reach me **iziatask@gmail.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
