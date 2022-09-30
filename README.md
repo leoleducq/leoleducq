@@ -1,5 +1,5 @@
 <h1 align="center">Salut ! Moi c'est Léo</h1>
-<h3 align="center">Etudiant et Freelance - Big Data</h3>
+<h3 align="center">Etudiant et Freelance - Big Data & IA</h3>
 
 T'en as marre d'effectuer les mêmes tâches au quotidien ? Viens DM on va automatiser tout ça !🤖  
 Ici pour te faire gagner du temps.  
@@ -9,6 +9,7 @@ Contact : **iziatask@gmail.fr**
 <p align="left">
 <a href="https://linkedin.com/in/leoleducq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="léo-leducq" height="30" width="40" /></a>
 <a href="https://twitter.com/iziatask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="léo-leducq" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/leoleducq" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="léo-leducq" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Mes compétences</h3>
