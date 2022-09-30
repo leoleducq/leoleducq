@@ -1,7 +1,7 @@
 <h1 align="center">Salut ! Moi c'est Léo</h1>
 <h3 align="center">Etudiant et Freelance - Big Data & IA</h3>
 
-T'en as marre d'effectuer les mêmes tâches au quotidien ? Viens DM on va automatiser tout ça !🤖  
+T'en as marre d'effectuer les mêmes tâches au quotidien ? Contacte moi, on va automatiser tout ça !🤖  
 Ici pour te faire gagner du temps.  
 Contact : **iziatask@gmail.fr**
 
