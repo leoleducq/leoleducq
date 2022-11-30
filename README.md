@@ -1,4 +1,4 @@
-<h1 align="center">Salut ! Moi c'est Léo
+<h1 align="center">Léo Leducq
   
 Etudiant et Freelance - Big Data & IA</h1>
 
