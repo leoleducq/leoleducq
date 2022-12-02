@@ -1,11 +1,17 @@
 <h1 align="center">Léo Leducq
   
-Etudiant et Freelance - Big Data & IA</h1>
+Étudiant et Freelance - Big Data & IA</h1>
 
-Être plus productif, en passant moins de temps sur ton business ?  
-Passe à la vitesse supérieure, automatise !  
-Ici pour te faire gagner du temps.🚀  
-Contact : **iziatask@gmail.fr**
+Bienvenue sur mon GitHub.  
+Ici tu pourras retrouver des projets :
+- D'études
+- D'alternance
+- De Freelance 
+- Ou tout simplement des projets persos.
+
+Une grande partie de mes projets sont faits en Python,  ça va de la migration de Base De Données jusqu'aux statistiques en passant par de L'OCR et de l'automatisation. 
+
+Si tu as des questions sur un des projets n'hésite pas à me contacter via mes réseaux ci-dessous ou par mail : **iziatask@gmail.com**
 
 <h3 align="left">Mes réseaux</h3>
 <p align="left">
