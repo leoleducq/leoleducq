@@ -3,7 +3,7 @@
 Étudiant et Freelance - Big Data & IA</h1>
 
 Bienvenue sur mon GitHub.  
-Ici tu pourras retrouver des projets :
+Ici, tu pourras retrouver des projets :
 - D'études
 - D'alternance
 - De Freelance 
@@ -11,7 +11,7 @@ Ici tu pourras retrouver des projets :
 
 Une grande partie de mes projets sont faits en Python,  ça va de la migration de Base De Données jusqu'aux statistiques en passant par de L'OCR et de l'automatisation. 
 
-Si tu as des questions sur un des projets n'hésite pas à me contacter via mes réseaux ci-dessous ou par mail : **iziatask@gmail.com**
+Si tu as des questions sur un des projets, contacte-moi via mes réseaux ci-dessous ou par mail : **iziatask@gmail.com**
 
 <h3 align="left">Mes réseaux</h3>
 <p align="left">
