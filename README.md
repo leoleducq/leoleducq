@@ -12,7 +12,7 @@ Ici, tu pourras retrouver des projets :
 Une grande partie de mes projets sont faits en Python,  ça va de la migration de Base De Données jusqu'aux statistiques en passant par de L'OCR et de l'automatisation. 
 
 Si tu as des questions sur un des projets, contacte-moi via mes réseaux ci-dessous ou par mail : **iziatask@gmail.com**  
-Pour plus d'informations sur moi, je te laisse visiter mon site internet : [leoleducq.com](https://leoleducq.com)  
+Pour plus d'informations sur moi, je te laisse visiter mon site internet : [leoleducq.com](https://leoleducq.com)  (soon)
 
 Liste de mes packages :  
 - [contentconvertor](https://pypi.org/project/contentconvertor/)
@@ -26,5 +26,4 @@ Liste de mes packages :
 
 <img align="center" src="https://www.codewars.com/users/iziatask/badges/micro" />
 
-<h3 align="left">Mes compétences</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> </p>
+![GH stats](https://github-readme-stats.vercel.app/api?username=leoleducq&show_icons=true&theme=dark)
