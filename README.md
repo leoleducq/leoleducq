@@ -1,7 +1,7 @@
 <h1 align="center">Léo Leducq
   
 Co-Fondateur [TikMatiz](https://tikmatiz.io) et [OneClickAffi](https://oneclickaffi.com)
-CTO TikMatiz
+<br/>CTO TikMatiz
 </h1>
 
 Si tu as des questions sur un de mes projets, contacte-moi via mes réseaux ci-dessous ou par mail : **iziatask@gmail.com**  
