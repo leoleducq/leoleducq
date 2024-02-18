@@ -1,18 +1,10 @@
 <h1 align="center">Léo Leducq
   
-Étudiant et Freelance - Big Data & IA</h1>
+Co-Fondateur [TikMatiz](https://tikmatiz.io) et [OneClickAffi](https://oneclickaffi.com)
+CTO TikMatiz
+</h1>
 
-Bienvenue sur mon GitHub.  
-Ici, tu pourras retrouver des projets :
-- D'études
-- D'alternance
-- De Freelance 
-- Ou tout simplement des projets persos.
-
-Une grande partie de mes projets sont faits en Python,  ça va de la migration de Base De Données jusqu'aux statistiques en passant par de L'OCR et de l'automatisation. 
-
-Si tu as des questions sur un des projets, contacte-moi via mes réseaux ci-dessous ou par mail : **iziatask@gmail.com**  
-Pour plus d'informations sur moi, je te laisse visiter mon site internet : [leoleducq.com](https://leoleducq.com)  (soon)
+Si tu as des questions sur un de mes projets, contacte-moi via mes réseaux ci-dessous ou par mail : **iziatask@gmail.com**  
 
 Liste de mes packages :  
 - [contentconvertor](https://pypi.org/project/contentconvertor/)
