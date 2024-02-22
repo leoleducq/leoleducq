@@ -2,7 +2,7 @@
 
 Co-Founder [TikMatiz](https://tikmatiz.io) & [OneClickAffi](https://oneclickaffi.com)
 <br />
-CTO TikMatiz
+CTO TikMatiz & Bouiboui Maker for OneClickAffi
 
 
 Packages :  
